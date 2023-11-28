@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+
+.div1m{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+}
+
+.div2M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div3m{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div4M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div5m{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div6M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div7m{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.div8M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.div9m{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.div10M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.div11m{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.div12M{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+td{
+    height: 100px;
+    width: 100%;
+}
